@@ -1,0 +1,30 @@
+.list_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+.tablewrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 500px;
+  border: 1px solid black;
+  background-color: black;
+  color: wheat;
+}
+.table_data {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 500px;
+}
+
+.p1 {
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #cec6c8;
+  font-size: 20px;
+}

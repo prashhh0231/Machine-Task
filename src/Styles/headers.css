@@ -1,0 +1,17 @@
+.header_contaier {
+  align-items: center;
+  text-align: center;
+  background-color: black;
+  color: aliceblue;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+.logoutBtn {
+  float: right;
+  margin-top: -50px;
+  margin-right: 20px;
+  background-color: bisque;
+  font-size: 18px;
+  font-weight: bolder;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

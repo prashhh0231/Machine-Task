@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+.reg_wrapper {
+  width: 400px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 5px;
+  justify-content: center;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+input {
+  font-size: 16px;
+  padding: 2px;
+  text-align: left;
+  width: 70%;
+  color: black;
+}
+.button_reg {
+  font-size: 18px;
+  padding: 5px;
+  text-align: center;
+  width: 75%;
+  margin-top: 5px;
+  color: white;
+  background-color: #c4064f;
+  margin-bottom: 20px;
+}
+.errMsg {
+  color: red;
+  float: left;
+  margin-left: 15%;
+}

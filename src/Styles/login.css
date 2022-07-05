@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+.login_wrapper {
+  width: 400px;
+  height: 320px;
+  padding: 10px;
+  justify-content: center;
+  text-align: center;
+  margin-top: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+input {
+  font-size: 18px;
+  padding: 5px;
+  text-align: center;
+  width: 70%;
+  margin-top: 20px;
+  color: black;
+  padding: 2px;
+}
+.button {
+  font-size: 18px;
+  padding: 5px;
+  text-align: center;
+  width: 75%;
+  margin-top: 20px;
+  color: white;
+  background-color: #c4064f;
+}
+.registrationBtn {
+  text-align: right;
+  cursor: pointer;
+  text-decoration: underline;
+  color: red;
+  margin-right: 30px;
+}
