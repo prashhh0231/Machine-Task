@@ -48,6 +48,7 @@ const Login = () => {
     <div className="container">
       <div className="login_wrapper">
         <h2>Login for more :)</h2>
+        <h5>Enter any email id or password validation is working</h5>
         <form action="" onSubmit={loginHandle}>
           <div className="inputs">
             {input.map((item, key) => (
