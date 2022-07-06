@@ -16,7 +16,7 @@ const Headers = () => {
       </button>
       <marque>
         Hello Sorry I am unable to connect UI with sqlLite. All the things which
-        you are seeing is just UI
+        you are seeing is just UI.
       </marque>
     </div>
   );
